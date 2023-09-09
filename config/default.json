@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://user123:user123@devcom.ayblegv.mongodb.net/?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://user123:user123@cluster1.mizwqmo.mongodb.net/",
   "jwtSecret": "T8jBGxyeBCTm21ixS3Jx"
 }
